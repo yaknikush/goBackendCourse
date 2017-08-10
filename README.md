@@ -2,7 +2,7 @@
 testing task for technotrack golang course related to backend development
 
 # short manual
-    Usage: ./wc \[KEY\]... \[FILE\]...  
+    Usage: ./wc [KEY]... [FILE]...  
     If file isn't mentioned, standard input is read.  
     Possible modes could be set with the keys:  
     -b, --bytes            print number of bytes  
